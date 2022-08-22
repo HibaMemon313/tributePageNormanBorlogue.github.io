@@ -1,0 +1,120 @@
+html{
+    scroll-behavior: smooth
+  }
+  
+  
+  body{
+    background-color:#D3D3D3;
+    display:flex;
+    justify-content:center;
+    flex-direction:column;
+  }
+  
+  
+  
+  
+  h1{
+    justify-content:center;
+     text-align:center;
+     font-weight:bold;
+     font-size:39;
+  }
+  
+  .no-margin{
+    padding:0;
+    margin:0;
+    text-align:center;
+    font-size:18
+  }
+  
+  
+  
+  .first{
+    width:95%;
+    height:45%;
+    flex-wrap:wrap;
+    background-color:white;
+    margin:auto;
+    margin-top:3.5%;
+    padding:1px;
+    justify-content:wrap-content;
+    box-sizing: border-box;
+    text-align : center;
+   
+  }
+  
+  
+  
+  .discussion{
+    margin:auto;
+    min-width: 100%;
+    max-height: 250px;
+    border-radius:13px;
+    object-fit:contain;
+  }
+  
+  
+  figcaption{
+    text-align:center;
+    font-weight:bold;
+    margin-top:2%
+  }
+  
+  
+  fieldset{
+    margin-top:15px;
+    border:5px solid black
+    
+  }
+  
+  
+  #data legend{
+    text-align:center;
+    font-size:22;
+    color:red;
+  }
+  
+  
+  
+  #data em{
+  
+  color:black;
+  
+  }
+  
+  
+  .year{
+    font-weight:bold;
+    font-size:19px
+  }
+  
+  
+  
+  #data p{
+   font-weight:bold;
+    font-size:19px
+  }
+  
+  
+  footer{
+    background-color:#00008B;
+    height:10%;
+    color:white;
+  }
+  
+  
+  #foot a{
+    color:red;
+  }
+  
+  
+  #foot p{
+    font-weight:bold;
+    font-size:19px;
+    color:white;
+    margin:auto;
+    padding:3px;
+    text-align:center;
+  }
+  
+  
